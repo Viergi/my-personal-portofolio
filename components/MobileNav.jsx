@@ -16,7 +16,7 @@ const links = [
   { path: "/", name: { id: "Beranda", en: "Home" } },
   { path: "/services", name: { id: "Layanan", en: "services" } },
   { path: "/resume", name: { id: "Resume", en: "resume" } },
-  { path: "/work", name: { id: "karya", en: "work" } },
+  { path: "/work", name: { id: "proyek", en: "project" } },
   { path: "/contact", name: { id: "kontak", en: "contact" } },
 ];
 

@@ -29,14 +29,19 @@ const Home = () => {
               {home[locale].description}
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <Button
-                variant="outline"
-                size="lg"
-                className="uppercase flex items-center gap-2"
+              <a
+                href="/assets/CV_VIERGI_indonesia.pdf"
+                download={"CV_VIERGI_indonesia.pdf"}
               >
-                <span>{home[locale].cv}</span>
-                <FiDownload />
-              </Button>
+                <Button
+                  variant="outline"
+                  size="lg"
+                  className="uppercase flex items-center gap-2"
+                >
+                  <span>{home[locale].cv}</span>
+                  <FiDownload />
+                </Button>
+              </a>
               <div className="mb-8 xl:mb-0">
                 <Social
                   containerStyles="flex gap-6"
