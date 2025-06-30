@@ -2,7 +2,6 @@
 
 import { FiDownload } from "react-icons/fi";
 import { Button } from "@/components/ui/button";
-import Head from "next/head";
 
 //@components
 import Social from "@/components/Social";

@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web Portofolio Pribadi ✌️
 
-## Getting Started
+Selamat datang di repository portofolio web pribadi saya!
 
-First, run the development server:
+Proyek ini merupakan portofolio digital yang menampilkan informasi tentang saya, proyek-proyek yang telah saya kerjakan, serta cara untuk menghubungi saya.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🛠️ Teknologi yang Digunakan
+
+Framework: Next.js
+
+Bahasa Pemrograman: JavaScript
+
+Styling: Tailwind CSS
+
+Deployment: Vercel
+
+## 🌐 Akses Langsung
+
+Anda dapat mengunjungi portofolio saya secara langsung di tautan berikut:
+https://viergi-portofolio.vercel.app/
+
+## ⚙️ Instalasi Lokal (Opsional, untuk developer)
+
+Jika Anda ingin menjalankan proyek ini secara lokal:
+
+**Clone repository ini:**
+
+```sh
+git clone https://github.com/Viergi/my-personal-portofolio.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Masuk ke direktori proyek:**
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```sh
+cd my-personal-portofolio
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Instal dependensi:**
 
-## Learn More
+```sh
+npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+**atau**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```sh
+yarn install
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Jalankan proyek di mode pengembangan:**
 
-## Deploy on Vercel
+```sh
+npm run dev
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**atau**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```sh
+yarn dev
+```
+
+Buka http://localhost:3000 di browser Anda untuk melihat hasilnya.
+
+## 🤝 Kontak & Kolaborasi
+
+Saya selalu terbuka untuk peluang kolaborasi dan proyek menarik. Jangan ragu untuk menghubungi saya melalui:
+
+Email: viergiansoka@gmail.com
+
+LinkedIn: linkedin.com/in/viergi-159344273/
+
+GitHub: github.com/Viergi
+
+# _Terima kasih telah mengunjungi! 👋_
