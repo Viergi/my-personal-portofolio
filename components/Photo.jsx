@@ -29,6 +29,7 @@ const Photo = () => {
             alt=""
             className="object-contain"
             sizes="100%"
+            unoptimized
           ></Image>
         </motion.div>
         <motion.svg
