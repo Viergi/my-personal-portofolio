@@ -188,6 +188,7 @@ const Work = () => {
                           className="object-cover"
                           alt=""
                           sizes="100%"
+                          unoptimized
                         />
                       </div>
                     </div>
