@@ -6,12 +6,12 @@ import CountUp, { useCountUp } from "react-countup";
 
 const stats = [
   { num: 1, text: { id: "Tahun pengalaman", en: "Years of experience" } },
-  { num: 4, text: { id: "Proyek selesai", en: "Project completed" } },
+  { num: 6, text: { id: "Proyek selesai", en: "Project completed" } },
   {
     num: 12,
     text: { id: "Teknologi yang dikuasai", en: "Technologies Mastered" },
   },
-  { num: 40, text: { id: "Code Commits", en: "Code Commits" } },
+  // { num: 40, text: { id: "Code Commits", en: "Code Commits" } },
 ];
 
 const Stats = () => {
