@@ -7,7 +7,7 @@ import { useContext } from "react";
 
 const links = [
   { path: "/", name: { id: "Beranda", en: "Home" } },
-  { path: "/services", name: { id: "Layanan", en: "services" } },
+  // { path: "/services", name: { id: "Layanan", en: "services" } },
   { path: "/resume", name: { id: "Resume", en: "resume" } },
   { path: "/work", name: { id: "Proyek", en: "Project" } },
 ];

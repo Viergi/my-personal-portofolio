@@ -19,7 +19,7 @@ const Home = () => {
       <div className="container mx-auto h-full">
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pb-16">
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">Web Developer</span>
+            <span className="text-xl">Developer</span>
             <h1 className="h1 mb-6">
               {home[locale].title}
               <br /> <span className="text-accent">Viergi</span>
