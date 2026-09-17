@@ -29,7 +29,7 @@ const Home = () => {
             </p>
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
-                href="https://drive.google.com/uc?export=download&id=1C8hUIIHXj-FOBP0OaH3LZPrcw9lti1Fi"
+                href="https://drive.google.com/uc?export=download&id=1nIjsnag-UEVYy3E8JInJI5Mytn3OIVmK"
                 download
               >
                 <Button
